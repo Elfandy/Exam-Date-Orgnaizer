@@ -1,16 +1,7 @@
-# organizing_dates_examinations
+# Exam Date Organizer
 
-A new Flutter project.
+------
 
-## Getting Started
+#### This Application is for colleges to manage their exam schedules and manage them without overlapping them over each other
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is not a full scale application it needs a lot of managing in the security aspect of the application and some bugs 
